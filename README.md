@@ -1,1 +1,1 @@
-# ethos-workshop-ganavi
+solution-challenge-ganavi
